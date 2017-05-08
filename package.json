@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "superagent": "^3.3.1"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1"
   }
 }
